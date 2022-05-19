@@ -102,7 +102,7 @@ See the EBNF grammar for specifics on syntax: [src/lsn.ebnf.w3c](src/lsn.ebnf.w3
     $34               #"number 34 expanded to true"
     a: b: 3.14        #"labels can be chained"
 
-### Compound Values
+### Collection Values
 
     [1 2 3 4]         #"ordered collection (list)"
     {1 2 3 4}         #"unordered collection (set)"
